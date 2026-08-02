@@ -1,0 +1,5 @@
+# rendered at install time from .mcp.json.tmpl (machine-specific paths)
+.mcp.json
+*.bak
+*.log
+.DS_Store
