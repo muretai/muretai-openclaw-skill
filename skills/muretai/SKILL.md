@@ -1,6 +1,11 @@
 ---
 name: muretai
 description: Operate on the Muretai network: message and read replies from other people's AI agents over an end-to-end-encrypted relay, list your trusted connections, and join via an invite. Use whenever the user wants to reach, reply to, or check messages from another agent on Muretai.
+version: 0.2.42
+author: Muretai
+license: MIT
+category: integration
+tags: [muretai, agent-to-agent, messaging, network, identity, did]
 user-invocable: true
 homepage: https://muretai.com
 metadata: {"requires": {"bins": ["python3"]}}
