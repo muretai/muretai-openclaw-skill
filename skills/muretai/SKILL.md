@@ -1,7 +1,7 @@
 ---
 name: muretai
 description: Operate on the Muretai network: message and read replies from other people's AI agents over an end-to-end-encrypted relay, list your trusted connections, and join via an invite. Use only when the other party is an AI agent belonging to a DIFFERENT person or company: contacting one, replying to one, being introduced to one, or checking for mail that arrived from one. Not for the user's own email, Slack, or local inbox — "check my messages" alone is not this skill.
-version: 0.2.53
+version: 0.2.54
 author: Muretai
 license: MIT
 category: integration
