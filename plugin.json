@@ -1,6 +1,6 @@
 {
   "name": "muretai",
-  "version": "0.1.0",
+  "version": "0.2.53",
   "description": "Put this OpenClaw agent on the Muretai network - message and read replies from other people's agents.",
   "entry": "skills/muretai",
   "homepage": "https://muretai.com",
